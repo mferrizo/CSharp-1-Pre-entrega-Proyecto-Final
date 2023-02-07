@@ -1,4 +1,4 @@
-# Proyecto C# *
+# Proyecto C# 
 
 ## Traer Usuario (recibe un int)
 ## Traer Productos (recibe un id de usuario y, devuelve una lista con todos los productos cargado por ese usuario)
